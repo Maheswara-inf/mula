@@ -1,3 +1,8 @@
+body{
+  background-color: rgb(60, 60, 139);
+  color: white;
+  text-align: center;
+}
 footer {
   background-color: var(--light-color);
   font-size: var(--body-font-size-xs);
