@@ -795,6 +795,6 @@ main .form form select[multiple] {
 .form .field-header {
     background-color: darkblue;
 }
-.form .field-income-verification-note {
+.form .field-footer {
     color: #afaf47;
 }
