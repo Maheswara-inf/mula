@@ -795,3 +795,6 @@ main .form form select[multiple] {
 .form .field-header {
     background-color: darkblue;
 }
+.form .plain-text{
+    color: #afaf47
+}
