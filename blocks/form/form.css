@@ -792,3 +792,6 @@ main div.form-wrapper {
 main .form form select[multiple] {
     height: calc(42px + 50px);
 }
+.form .field-header {
+    background-color: darkblue;
+}
