@@ -89,6 +89,7 @@ function emicalculation(p, n, r) {
   return Number(emi.toFixed(2));
 }
  
+ 
 // eslint-disable-next-line import/prefer-default-export
 
 export {

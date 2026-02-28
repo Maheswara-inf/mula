@@ -792,6 +792,19 @@ main div.form-wrapper {
 main .form form select[multiple] {
     height: calc(42px + 50px);
 }
-.form field-header {
-    background-color: #035fe6;
+.form .field-header {
+    background-color: #0a4db2;
 }
+
+ main .form .range-widget-wrapper.decorated input[type="range"] {  
+
+ --button-primary-color: #edb61d;
+    height: 8px;
+
+}
+header .header, footer .footer {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+
