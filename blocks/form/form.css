@@ -792,8 +792,18 @@ main div.form-wrapper {
 main .form form select[multiple] {
     height: calc(42px + 50px);
 }
+.form .field-income-verification-note p{
+    color: rgb(176, 145, 88);
+}
+.form .field-wrapper.col-3 p{
+    color: #035fe6;
+}
 .form .field-header {
     background-color: #0a4db2;
+}
+.form .field-loan-offer-info p{
+    background-color: lightblue;
+    border-radius: 9px;
 }
 
  main .form .range-widget-wrapper.decorated input[type="range"] {  
@@ -807,4 +817,21 @@ header .header, footer .footer {
     background-color: darkblue;
     color: white;
 }
+main .form .button-wrapper button {
+    background-color: darkblue;
+    border-radius: 25px;
+}
+.form .field-loan-summary-panel {
+    background-color: #ffa5004a;
+    border-radius: 28px;
+    margin-bottom: 150px;    
+}
+.form .field-credit-review-note {
+    background-color: orange;
+    border-radius: 12px;
+}
+.form .field-loan-summary-amount{
+    margin-top: 200px;
+}
+
 
