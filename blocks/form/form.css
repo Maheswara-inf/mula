@@ -795,9 +795,6 @@ main .form form select[multiple] {
 .form .field-income-verification-note p{
     color: rgb(176, 145, 88);
 }
-.form .field-wrapper.col-3 p{
-    color: #035fe6;
-}
 .form .field-form-image1771496304483{
      margin-top: 40px !important;
 }
@@ -831,7 +828,10 @@ main .form .button-wrapper button {
 .form .field-loan-summary-panel {
     background-color: #ffa5004a;
     border-radius: 28px;
-    margin-bottom: 150px;    
+    margin-bottom: 150px;
+    max-width: 433px;
+    height: 494px;
+    padding-top: 53px;  
 }
 .form .field-credit-review-note {
     background-color: orange;
