@@ -798,6 +798,13 @@ main .form form select[multiple] {
 .form .field-wrapper.col-3 p{
     color: #035fe6;
 }
+.form .field-form-image1771496304483{
+     margin-top: 20px !important;
+}
+.form .field-drop-down1772510260497{
+    margin-top: 37px !important;
+    margin-left: 80px !important;
+}
 .form .field-header {
     background-color: #0a4db2;
 }
